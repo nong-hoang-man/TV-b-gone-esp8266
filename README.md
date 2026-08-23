@@ -1,10 +1,10 @@
 # 📡 ESP8266 WiFi - Code Tiếng Việt
 
-Dự án sử dụng module ESP8266 để thực hiện các kỹ thuật kiểm thử bảo mật mạng WiFi băng tần 5GHz.
+Dự án sử dụng module ESP8266 để thực hiện các kỹ thuật phá sóng tín hiệu vả mở khoá tv băng tần 5GHz.
 
 ## 📺 Hướng dẫn nạp Code
-Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác **minh.exe** nhé:
-👉 [Xem video hướng dẫn tại đây](https://vt.tiktok.com/ZSVu98YwL/)
+Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác **Bi** nhé:
+👉 [Xem video hướng dẫn tại đây](https://vt.tiktok.com/ZSVuX6kYr/)
 
 ---
 
