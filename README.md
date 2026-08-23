@@ -1,4 +1,4 @@
-# 📡 ESP8266 WiFi - Code Tiếng Việt
+# 📡 TV B Gone - Code esp8266
 
 Dự án sử dụng module ESP8266 để thực hiện các kỹ thuật phá sóng tín hiệu vả mở khoá tv băng tần 5GHz.
 
